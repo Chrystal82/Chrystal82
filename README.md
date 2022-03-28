@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/Chrystal82/Chrystal82/main/header.png" width="90%"></img>
 <!--
 **Chrystal82/Chrystal82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1>Hello, I'm Chrystal. I am a website developer, open for remote work! The easiest way to reach me is by:
+ <a href="mailto:chrystalgilbertdev@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <h3>Check out my repositories.</h3>
+  <h2>Thanks for stopping by!</h2>
