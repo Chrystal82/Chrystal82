@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hello, I'm Chrystal. I am a website developer, open for remote work! The easiest way to reach me is by:
- <a href="mailto:chrystalgilbertdev@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<h1>Hello, I'm Chrystal. I am a website developer, open for remote work! The easiest way to reach me is email:
+ <a href="mailto:chrystalgilbertdev@gmail.com?">chrystalgilbertdev@gmail.com</a>
   <h3>Check out my repositories.</h3>
   <h2>Thanks for stopping by!</h2>
